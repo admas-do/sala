@@ -1,1 +1,1 @@
-print('hello salary...')
+print('hello salary of the site ...')
